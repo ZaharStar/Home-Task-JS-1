@@ -1,0 +1,38 @@
+// домашняя работа №1 задание 2
+var a1 = 5 % 3;
+console.log(typeof a1);
+var a2 = 3 % 5;
+console.log(typeof a2);
+var a3 = 5 + '3';
+console.log(typeof a3);
+var a4 = '5' - 3;
+console.log(typeof a4);
+var a5= 75 + 'кг';
+console.log(typeof a5);
+var a6 = 785 * 653;
+console.log (typeof a6);
+var a7= 100 / 25;
+console.log (typeof a7);
+var a8 = 0 * 0;
+console.log (typeof a8);
+var a9 = 0 / 2;
+console.log (typeof a9);
+var a10 = 89 / 0;
+console.log (typeof a10);
+var a11 = 98 + 2;
+console.log (typeof a11);
+var a12 = 5 - 98;
+console.log (typeof a12);
+var a13 = (8 + 56 * 4) / 5;
+console.log (typeof a13);
+var a14= (9 - 12) * 7 / (5 + 2);
+console.log (typeof a14);
+var a15= +"123";
+console.log (typeof a15);
+var a16= 1 || 0;
+console.log (typeof a16);
+var a17= false || true;
+console.log (typeof a17);
+var a18= true > 0;
+console.log (typeof a18);
+s
